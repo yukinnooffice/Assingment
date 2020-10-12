@@ -1,24 +1,14 @@
-# README
+# Assingment
+#DMMWEBCAMPのカリキュラム　２ヶ月目　いいね、コメント機能👩‍💻🏅
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+##環境 ruby 2.5.7
 
-* Ruby version
+rails 5.2.4
 
-* System dependencies
+作成者　yuki maeda
 
-* Configuration
+所属 DMMWEBCAMP8月生
 
-* Database creation
+E-mail　yukinooffice@gmail.com
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
